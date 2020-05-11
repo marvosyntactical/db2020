@@ -17,5 +17,5 @@ es basiert hauptsaechlich auf Entities, zwischen denen dann unterschiedlich stel
 Resources:
 
 
-[ertorm]:  "ER to RM Table"
+[ertorm]: https://github.com/marvosyntactical/db2020/blob/master/er-to-rm.png  "ER to RM Table"
 
